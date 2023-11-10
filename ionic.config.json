@@ -1,0 +1,7 @@
+{
+  "name": "pedir-comida",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
